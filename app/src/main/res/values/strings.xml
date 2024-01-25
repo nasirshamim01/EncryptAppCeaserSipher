@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ceaser Sipher</string>
+    <string name="message_hint">Type message here</string>
+    <string name="key_text">Key:</string>
+    <string name="key_range">1-52</string>
+    <string name="encrypt_button">Encrypt</string>
+    <string name="decrypt_button">Decrypt</string>
+    <string name="display_default">Press Encrypt/Decrypt to display new message</string>
+</resources>
